@@ -1,7 +1,7 @@
 #!/bin/bash
 export PATH=$PATH:/usr/local/bin
 
-# Requirments:
+# Requirements:
 # 1. Have rust and cargo installed
 # 2. Have taplo installed (cargo install taplo-cli --locked)
 #

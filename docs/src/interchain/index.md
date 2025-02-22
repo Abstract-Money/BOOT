@@ -30,7 +30,7 @@ interchain.await_and_check_packets(
 ```
 
 This namely removes the need for pausing the program and resuming manually or with a timer.
-This also allows to automatically get extra information about the relayed packet and assert the IBC-cycle ended successfuly.
+This also allows to automatically get extra information about the relayed packet and assert the IBC-cycle ended successfully.
 
 ## Interchain packet following
 
